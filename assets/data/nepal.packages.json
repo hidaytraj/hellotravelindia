@@ -1,0 +1,185 @@
+{
+	"packagesTitle": "Nepal Packages",
+	"packages": [
+		{
+			"title": "02 Nights 03 Days",
+			"price": 35000,
+			"currency": "USD",
+			"thumbImage": "domestic-img2.jpg",
+			"notes": "Customizable itineraries where you may choose",
+			"itineraryHighlights": [
+				"Arrive Kathmandu",
+				"Kathmandu Sightseeing",
+				"Departure"
+			],
+			"inclusions": [
+				"transport",
+				"hotels",
+				"meals",
+				"sightseeing"
+			],
+			"itineraryDetails": [
+				{
+					"title": "Arrive Kathmandu",
+					"description": "Arrive at Tribhuwan International Airport in Kathmandu. Meet and traditional welcome assistance by our representative &get transferred to hotel. Welcome drink followed by tour briefing. Evening is free to explore as own. Overnight at Kathmandu hotel."
+				},
+				{
+					"title": "Kathmandu Sightseeing",
+					"description": "Breakfast, proceed for the full-day sightseeing of Kathmandu city visiting Pashupatinath Temple, Boudhanath Stupa,Swoyambhunath Stupaand Kathmandu Durbar Square.After sightseeing, return back to the hotel. Rest of the time at your leisure for the personal activities like shopping at well known shopping malls or explore the tourist hub Thamel as your own. In the evening you can visit the varieties of restaurant & bar and enjoy live musical shows and nightlife of Thamel.Overnight at Kathmandu."
+				},
+				{
+					"title": "Departure",
+					"description": "Walk up early to sunrise view over Himalayas at Dhulikhel and after breakfast, free time till transfer to international airport for onward destination with sweet memories of Nepal."
+				}
+			],
+			"packageCost": [
+				{
+					"paxSlabs": "For 04 paying pax, travelling together",
+					"cost": "INR 885 per person"
+				},
+				{
+					"paxSlabs": "For 06 paying pax, travelling together",
+					"cost": "INR 836 per person"
+				},
+				{
+					"paxSlabs": "For 08 paying pax, travelling together",
+					"cost": "INR 885 per person"
+				}
+			],
+			"packageIncludes": [
+				"Assistance upon arrival at Delhi Airport",
+				"Traditional welcome in the Hotel with Welcome Drink (Hot Tea / Coffee / Kahwa) on arrival",
+				"04 Night Accommodation in Leh on twin sharing Basis as per the Itinerary with Breakfast and Dinner",
+				"01 Night Accommodation in Nubra Valley on twin sharing Basis as per the Itinerary with Breakfast and Dinner"
+			]
+		},
+		{
+			"title": "03 Nights 04 Days",
+			"price": 40000,
+			"currency": "INR",
+			"thumbImage": "domestic-img3.jpg",
+			"notes": "Customizable itineraries where you may choose transport",
+			"itineraryHighlights": [
+				"Arrive Kathmandu",
+				"Kathmandu Sightseeing",
+				"Sightseeing Of Patan & Bhaktapur",
+				"Departure"
+			],
+			"inclusions": [
+				"transport",
+				"hotels",
+				"meals",
+				"sightseeing"
+			],
+			"itineraryDetails": [
+				{
+					"title": "Arrive Kathmandu",
+					"description": "Arrive at Tribhuwan International Airport in Kathmandu. Meet and traditional welcome assistance by our representative &get transferred to hotel. Welcome drink followed by tour briefing. Evening is free to explore as own. Overnight at Kathmandu hotel."
+				},
+				{
+					"title": "Kathmandu Sightseeing",
+					"description": "Breakfast, proceed for the full-day sightseeing of Kathmandu city visiting Pashupatinath Temple, Boudhanath Stupa,Swoyambhunath Stupaand Kathmandu Durbar Square.After sightseeing, return back to the hotel. Rest of the time at your leisure for the personal activities like shopping at well known shopping malls or explore the tourist hub Thamel as your own. In the evening you can visit the varieties of restaurant & bar and enjoy live musical shows and nightlife of Thamel.Overnight at Kathmandu."
+				},
+				{
+					"title": "Sightseeing Of Patan & Bhaktapur",
+					"description": "Breakfast, proceed for sightseeing covering ancient city (World heritage Site) of Patan Durbar Square and Bhaktapur Durbar Square enroute Thimi. Patan city is fragmented from other cities due to its substantive architectural ancient masterpieces., just 5 kms south - east from Kathmandu, consists of enchanting m?lange of palace buildings, artistic courtyard, graceful pagoda temples and former palace buildings. One of the main attractions is Krishna Temple built entirely of stone in 19th century for the Hindu God. Thimi is 8 kms east from kathmandu on the way to Bhaktapur. It is known for its artistic masks and earthen pots, often seen spread out on the streets to dry in the sun. It can be called a traditional pottery locality with almost 80% of the population still involved in pottery. Handspun cotton cloth is another Thimi specialty. Bhaktapur Durbar Square is architectural showpieces amongst the three durbar square in the valley. It is highlights the ancient arts of Nepal and conglomeration of pagoda and shikhara-style temples grouped around a 55-window palace of brick and wood.The golden effigies of the kings perched on the top of stone monoliths, the guardian deities looking out from their sanctuaries, the wood carvings in every place Overnight at Kathmandu."
+				},
+				{
+					"title": "Departure",
+					"description": "Walk up early to sunrise view over Himalayas at Dhulikhel and after breakfast, free time till transfer to international airport for onward destination with sweet memories of Nepal."
+				}
+			],
+			"packageCost": [
+				{
+					"paxSlabs": "For 04 paying pax, travelling together",
+					"cost": "INR 885 per person"
+				},
+				{
+					"paxSlabs": "For 06 paying pax, travelling together",
+					"cost": "INR 836 per person"
+				},
+				{
+					"paxSlabs": "For 08 paying pax, travelling together",
+					"cost": "INR 885 per person"
+				}
+			],
+			"packageIncludes": [
+				"Assistance upon arrival at Delhi Airport",
+				"Traditional welcome in the Hotel with Welcome Drink (Hot Tea / Coffee / Kahwa) on arrival",
+				"04 Night Accommodation in Leh on twin sharing Basis as per the Itinerary with Breakfast and Dinner",
+				"01 Night Accommodation in Nubra Valley on twin sharing Basis as per the Itinerary with Breakfast and Dinner",
+				"01 Night Accommodation in Pangong Lake on twin sharing Basis as per the Itinerary with Breakfast and Dinner",
+				"02 Night Accommodation in Delhi on twin sharing Basis as per the Itinerary with Breakfast and Dinner",
+				"Return airport and round trip transfers along with all sightseeing tours by Non-Ac Vehicle as per the itinerary"
+			]
+		},
+		{
+			"title": "04 Nights 05 Days",
+			"price": 45000,
+			"currency": "USD",
+			"thumbImage": "domestic-img4.jpg",
+			"notes": "Customizable itineraries where you may choose transport, stay & sightseeing as per your taste & comfort",
+			"itineraryHighlights": [
+				"Arrive Kathmandu",
+				"Kathmandu Sightseeing",
+				"Sightseeing Of Patan & Bhaktapur",
+				"Kathmandu Sightseeing And Drive To Dhulikhel",
+				"Departure"
+			],
+			"inclusions": [
+				"transport",
+				"hotels",
+				"meals",
+				"sightseeing"
+			],
+			"itineraryDetails": [
+				{
+					"title": "Arrive Kathmandu",
+					"description": "Arrive at Tribhuwan International Airport in Kathmandu. Meet and traditional welcome assistance by our representative &get transferred to hotel. Welcome drink followed by tour briefing. Evening is free to explore as own. Overnight at Kathmandu hotel."
+				},
+				{
+					"title": "Kathmandu Sightseeing",
+					"description": "Breakfast, proceed for the full-day sightseeing of Kathmandu city visiting Pashupatinath Temple, Boudhanath Stupa,Swoyambhunath Stupaand Kathmandu Durbar Square.After sightseeing, return back to the hotel. Rest of the time at your leisure for the personal activities like shopping at well known shopping malls or explore the tourist hub Thamel as your own. In the evening you can visit the varieties of restaurant & bar and enjoy live musical shows and nightlife of Thamel.Overnight at Kathmandu."
+				},
+				{
+					"title": "Sightseeing Of Patan & Bhaktapur",
+					"description": "Breakfast, proceed for sightseeing covering ancient city (World heritage Site) of Patan Durbar Square and Bhaktapur Durbar Square enroute Thimi. Patan city is fragmented from other cities due to its substantive architectural ancient masterpieces., just 5 kms south - east from Kathmandu, consists of enchanting m?lange of palace buildings, artistic courtyard, graceful pagoda temples and former palace buildings. One of the main attractions is Krishna Temple built entirely of stone in 19th century for the Hindu God. Thimi is 8 kms east from kathmandu on the way to Bhaktapur. It is known for its artistic masks and earthen pots, often seen spread out on the streets to dry in the sun. It can be called a traditional pottery locality with almost 80% of the population still involved in pottery. Handspun cotton cloth is another Thimi specialty. Bhaktapur Durbar Square is architectural showpieces amongst the three durbar square in the valley. It is highlights the ancient arts of Nepal and conglomeration of pagoda and shikhara-style temples grouped around a 55-window palace of brick and wood.The golden effigies of the kings perched on the top of stone monoliths, the guardian deities looking out from their sanctuaries, the wood carvings in every place Overnight at Kathmandu."
+				},
+				{
+					"title": "Kathmandu Sightseeing And Drive To Dhulikhel",
+					"description": "Breakfast, Proceed for sightseeing of Dakshinkali Temple - situated 22 kms southern part of Kathmandu, dedicated important hindu goddess Kali where animals sacrifices are offered to the deity. On the way back, visit Ses Narayan Temple - dedicated to Lord Vishnu and Chobhar George ? a famous George made by Manjushree with sword and drain out the lake which once covered the Lake. Finally drive(1.5hr/30 kms) to Dhulikel for best vantage point to view the peakslike Gaurishankar 7145m, Dorje Lakpa 6988m, Langtang Lirung 7246m, Ganesh Himal 7604m, Rolwaling Himalayan region., beautiful landscape, green jungle & rural areas Overnight at hotel."
+				},
+				{
+					"title": "Departure",
+					"description": "Walk up early to sunrise view over Himalayas at Dhulikhel and after breakfast, free time till transfer to international airport for onward destination with sweet memories of Nepal."
+				}
+			],
+			"packageCost": [
+				{
+					"paxSlabs": "For 04 paying pax, travelling together",
+					"cost": 885
+				},
+				{
+					"paxSlabs": "For 06 paying pax, travelling together",
+					"cost": 836
+				},
+				{
+					"paxSlabs": "For 08 paying pax, travelling together",
+					"cost": 885
+				}
+			],
+			"packageIncludes": [
+				"Assistance upon arrival at Delhi Airport",
+				"Traditional welcome in the Hotel with Welcome Drink (Hot Tea / Coffee / Kahwa) on arrival",
+				"04 Night Accommodation in Leh on twin sharing Basis as per the Itinerary with Breakfast and Dinner",
+				"01 Night Accommodation in Nubra Valley on twin sharing Basis as per the Itinerary with Breakfast and Dinner",
+				"01 Night Accommodation in Pangong Lake on twin sharing Basis as per the Itinerary with Breakfast and Dinner",
+				"02 Night Accommodation in Delhi on twin sharing Basis as per the Itinerary with Breakfast and Dinner",
+				"Return airport and round trip transfers along with all sightseeing tours by Non-Ac Vehicle as per the itinerary",
+				"Wild Life fees & Red Cross fee",
+				"Inner line Permit to restricted / protected areas (Khardungla Pass& Pangong Lake)",
+				"The Ladakh Autonomous Hill Development Council fee (Ladakh entry fee)"
+			]
+		}
+	]
+}

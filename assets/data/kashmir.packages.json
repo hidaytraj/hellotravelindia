@@ -1,0 +1,234 @@
+{
+	"packagesTitle": "Kashmir Packages",
+	"packages": [
+		{
+			"title": "04 Nights 05 Days",
+			"nights": 4,
+			"days": 5,
+			"price": 17999,
+			"currency": "INR",
+			"thumbImage": "kashmir-packages1.jpg",
+			"notes": "",
+			
+			"itineraryHighlights": [
+				"Arrival Srinagar Airport Mughal Gardens",
+				"Drive from Srinagar to Pahalgam",
+				"Drive from Pahalgam to Gulmarg",
+				"Drive from Gulmarg to Srinagar",
+				"Departure"
+			],
+			"inclusions": [
+				"transport",
+				"hotels",
+				"meals",
+				"boat ride",
+				"sightseeing"
+			],
+			"itineraryDetails": [
+				{
+					"title": "Arrival Srinagar Airport Mughal Gardens",
+					"description": "Arrival on Srinagar Airport you will be met our representative and drive towards hotel . After check in at hotel & refreshment continue your tour to famous Nishat Garden known as Garden of pleasure built in 16th century (1633) by Mughal King Asif Khan. Then visiting Shalimar Garden known as Garden of love built in 16th century (1619) by Mughal King Jehangir for his beloved wife Noor Jehan or Mehr un Nissa and later on pay a visit the famous White mosque of Srinagar city Hazratbal shrine. Overnight stay in hotel in Srinagar."
+				},
+				{
+					"title": "Drive from Srinagar to Pahalgam",
+					"description": "After breakfast at hotel transfer to Pahalgam. Pahalgam 2133 mts also known as ‘The valley of Shepherds or Trekker’s Paradise. Pahalgam is the most famous place for Indian Film Industry. On the way visit Awantipura ruins, Saffron fields One of the most beautiful places on earth, the town of Pahalgam offers breath-taking views. One can just enjoy the town of Pahalgam trek to some of the most beautiful places on earth. En-route visit Saffron fields, Drive through the green pine forest and along the Lidder River. On arrival, Pahalgam check-in to your Hotel. Enjoy local sightseeing of Pahalgam. Overnight in Hotel  in Pahalgam."
+				},
+				{
+					"title": "Drive from Pahalgam to Gulmarg",
+					"description": "After early breakfast at hotel drive to Gulmarg for overnight stay. (8700 ft i.e. 2652 mts), Discovered by the Kashmiri romantic poet in the 16th century who was inspired with its grassy slopes covered with wild flowers. In winter Gulmarg looks more beautiful due to heavy snow fall. And turns into India’s premier Ski resort in winter. The Gondola Cable Car <br> <strong>Optional</strong> offers rides to the upland meadows of Kongdori and beyond to the top of Apharwat range to a height of 14000 ft for viewing the Himalayan Peaks in summer and for downhill skiing in winter. Overnight in Hotel in Gulmarg."
+				},
+				{
+					"title": "Drive from Gulmarg to Srinagar",
+					"description": "After breakfast at hotel drive back to Srinagar for 01 night stay. Check-in at deluxe houseboat and refreshment at houseboat continue your tour and visit the famous Shankaracharya Temple built on the top of the mountain overlooking Dal Lake. Evening enjoy your Shikara Ride on the famous Dal Lake to enjoy the beauty that God has graced this city, which is often compared to Venice. You will get a lovely view of some interesting places around the lake.  Overnight stay in deluxe houseboat in Srinagar."
+				},
+				{
+					"title": "Departure",
+					"description": "After breakfast leave Hotel for Airport for onward destination with sweet holiday memories"
+				}
+			],
+			"packageCost": [
+				{
+					"paxSlabs": "For 02 paying pax, travelling together",
+					"cost": "292 per person"
+				},
+				{
+					"paxSlabs": "Cost for an extra bed in same room ",
+					"cost": "132 per bed"
+				},
+				{
+					"paxSlabs": "Cost for without extra bed in same bed",
+					"cost": "102 per child"
+				}
+				,
+				{
+					"paxSlabs": "Child below four years",
+					"cost": "complementary on EPAI"
+				}
+			],
+			"packageIncludes": [
+				"04 night's accommodation",
+				"Meal plan Breakfast and Dinner",
+				"All transfer, sightseeing & roundtrip by 01 Non Ac Tavera as per the itinerary",
+				"Assistance upon arrival at Srinagar airport",
+				"Half-day sightseeing tour to Mughal Gardens & Shankaracharya Temple",
+				"01 Shikara cruise on the lake (01 hours)",
+				"All present applicable taxes as on date",
+				"Any future taxes levies will be charged extra"
+			]
+		},
+		{
+			"title": "05 Nights 06 Days",
+			"nights": 5,
+			"days": 6,
+			"price": 11990,
+			"currency": "INR",
+			"thumbImage": "kashmir-packages2.jpg",
+			"notes": "Customizable itineraries where you may choose",
+			"itineraryHighlights": [
+				"Arrival Srinagar Airport Mughal Gardens",
+				"Drive from Srinagar to Pahalgam",
+				"Drive from Pahalgam to Gulmarg",
+				"In Gulmarg",
+				"Drive from Gulmarg to Srinagar",
+				"Departure"
+			],
+			"inclusions": [
+				"transport",
+				"hotels",
+				"meals",
+				"Boat Ride",
+				"sightseeing"
+			],
+			"itineraryDetails": [
+				{
+					"title": "Arrival Srinagar Airport Mughal Gardens",
+					"description": "Arrival on Srinagar Airport you will be met our representative and drive towards hotel . After check in at hotel & refreshment continue your tour to famous Nishat Garden known as Garden of pleasure built in 16th century (1633) by Mughal King Asif Khan. Then visiting Shalimar Garden known as Garden of love built in 16th century (1619) by Mughal King Jehangir for his beloved wife Noor Jehan or Mehr un Nissa and later on pay a visit the famous White mosque of Srinagar city Hazratbal shrine. Overnight stay in hotel in Srinagar."
+				},
+				{
+					"title": "Drive from Srinagar to Pahalgam",
+					"description": "After breakfast at hotel transfer to Pahalgam. Pahalgam 2133 mts also known as ‘The valley of Shepherds or Trekker’s Paradise. Pahalgam is the most famous place for Indian Film Industry. On the way visit Awantipura ruins, Saffron fields One of the most beautiful places on earth, the town of Pahalgam offers breath-taking views. One can just enjoy the town of Pahalgam trek to some of the most beautiful places on earth. En-route visit Saffron fields, Drive through the green pine forest and along the Lidder River. On arrival, Pahalgam check-in to your Hotel. Enjoy local sightseeing of Pahalgam. Overnight in Hotel  in Pahalgam."
+				},
+				{
+					"title": "Drive from Pahalgam to Gulmarg",
+					"description": "After early breakfast at hotel drive to Gulmarg for overnight stay. (8700 ft i.e. 2652 mts), Discovered by the Kashmiri romantic poet in the 16th century who was inspired with its grassy slopes covered with wild flowers. In winter Gulmarg looks more beautiful due to heavy snow fall. And turns into India’s premier Ski resort in winter. The Gondola Cable Car"
+				},
+				{
+					"title": "In Gulmarg",
+					"description": "<strong>Optional</strong> offers rides to the upland meadows of Kongdori and beyond to the top of Apharwat range to a height of 14000 ft for viewing the Himalayan Peaks in summer and for downhill skiing in winter. Overnight in Hotel in Gulmarg."
+				},
+				{
+					"title": "Drive from Gulmarg to Srinagar",
+					"description": "After breakfast at hotel drive back to Srinagar for 01 night stay. Check-in at deluxe houseboat and refreshment at houseboat continue your tour and visit the famous Shankaracharya Temple built on the top of the mountain overlooking Dal Lake. Evening enjoy your Shikara Ride on the famous Dal Lake to enjoy the beauty that God has graced this city, which is often compared to Venice. You will get a lovely view of some interesting places around the lake.  Overnight stay in deluxe houseboat in Srinagar."
+				},
+				{
+					"title": "Departure",
+					"description": "After breakfast leave Hotel for Airport for onward destination with sweet holiday memories"
+				}
+			],
+			"packageCost": [
+				{
+					"paxSlabs": "For 04 paying pax, travelling together",
+					"cost": 885
+				},
+				{
+					"paxSlabs": "For 06 paying pax, travelling together",
+					"cost": 836
+				},
+				{
+					"paxSlabs": "For 08 paying pax, travelling together",
+					"cost": 885
+				}
+			],
+			"packageIncludes": [
+				"05 night's accommodation",
+				"Meal plan Breakfast and Dinner",
+				"All transfer, sightseeing & roundtrip by 01 Non Ac Tavera as per the itinerary",
+				"Assistance upon arrival at Srinagar airport",
+				"Half-day sightseeing tour to Mughal Gardens & Shankaracharya Temple",
+				"01 Shikara cruise on the lake (01 hours)",
+				"All present applicable taxes as on date",
+				"Any future taxes levies will be charged extra"
+
+			]
+		},
+		{
+			"title": "06 Nights 07 Days",
+			"nights": 6,
+			"days": 7,
+			"price": 19999,
+			"currency": "INR",
+			"thumbImage": "kashmir-packages3.jpg",
+			"notes": "Customizable itineraries where you may choose",
+			"itineraryHighlights": [
+				"Arrival Srinagar Airport Mughal Gardens",
+				"Day Excursion to Sonmarg",
+				"Drive from Srinagar to Pahalgam",
+				"In Pahalgam",
+				"Drive from Pahalgam to Gulmarg",
+				"In Gulmarg",
+				"Departure"
+			],
+			"inclusions": [
+				"transport",
+				"hotels",
+				"meals",
+				"Boat Ride",
+				"sightseeing"
+			],
+			"itineraryDetails": [
+				{
+					"title": "Arrival Srinagar Airport Mughal Gardens",
+					"description": "Arrival on Srinagar Airport you will be met our representative and drive towards hotel . After check in at hotel & refreshment continue your tour to famous Nishat Garden known as Garden of pleasure built in 16th century (1633) by Mughal King Asif Khan. Then visiting Shalimar Garden known as Garden of love built in 16th century (1619) by Mughal King Jehangir for his beloved wife Noor Jehan or Mehr un Nissa and later on pay a visit the famous White mosque of Srinagar city Hazratbal shrine. Overnight stay in hotel in Srinagar."
+				},
+				{
+					"title": "Day Excursion to Sonmarg",
+					"description": "After breakfast at houseboat leave for day excursion to Sonamarg which is the most beautiful drive from Srinagar. On the way you stop at many beautiful spots. Continue drive to Sonamarg 2690 Mtrs Meadow of Gold. One can ride on horse to visit Thajiwas Glacier on Pony where snow remains round the year and Sonamarg is known as Gateway of Ladakh. Overnight stay in deluxe houseboat in Srinagar"
+				},
+				{
+					"title": "Drive from Srinagar to Pahalgam",
+					"description": "After breakfast at hotel transfer to Pahalgam. Pahalgam 2133 mts also known as ‘The valley of Shepherds or Trekker’s Paradise. Pahalgam is the most famous place for Indian Film Industry. On the way visit Awantipura ruins, Saffron fields One of the most beautiful places on earth, the town of Pahalgam offers breath-taking views. One can just enjoy the town of Pahalgam trek to some of the most beautiful places on earth. En-route visit Saffron fields, Drive through the green pine forest and along the Lidder River. On arrival, Pahalgam check-in to your Hotel. Enjoy local sightseeing of Pahalgam. Overnight in Hotel  in Pahalgam."
+				},
+				{
+					"title": "In Pahalgam",
+					"description": "<strong>Optional</strong> One can enjoy Horse ride at Pahalgam. Around Pahalgam are many places of interest, and because the resort is set between fairly steep hills, it is worth hiring a pony rather than walking. The most beautiful of these is the huge, undulating meadow of Baisaran, surrounded by thickly wooded forests of pine. Hajan an idyllic spot for a picnic. <br>Afternoon will be at leisure. Dinner overnight stay at hotel"
+				},
+				{
+					"title": "Drive from Pahalgam to Gulmarg",
+					"description": "After early breakfast at hotel drive to Gulmarg for overnight stay. (8700 ft i.e. 2652 mts), Discovered by the Kashmiri romantic poet in the 16th century who was inspired with its grassy slopes covered with wild flowers. In winter Gulmarg looks more beautiful due to heavy snow fall. And turns into India’s premier Ski resort in winter. The Gondola Cable Car"
+				},
+				{
+					"title": "In Gulmarg",
+					"description": "<strong>Optional</strong> One can enjoy Gondola ride or Horse ride at Gulmarg. <br> For a fun-filled ride of a most unusual kind, Gulmarg’s newly constructed gondola lift from high above Gulmarg, through pine-clad slopes is exhilarating. From Gulmarg a pony track leads upwards to Khilanmarg, Kangdori & seven springs, a couple of hours by pony longer on foot <br> Afternoon will be at leisure. Dinner & overnight stay at hotel."
+				},
+				{
+					"title": "Departure",
+					"description": "After breakfast leave Hotel for Airport for onward destination with sweet holiday memories"
+				}
+			],
+			"packageCost": [
+				{
+					"paxSlabs": "For 04 paying pax, travelling together",
+					"cost": 885
+				},
+				{
+					"paxSlabs": "For 06 paying pax, travelling together",
+					"cost": 836
+				},
+				{
+					"paxSlabs": "For 08 paying pax, travelling together",
+					"cost": 885
+				}
+			],
+			"packageIncludes": [
+				"06 night’s accommodation",
+				"Meal plan Breakfast and Dinner",
+				"All transfer, sightseeing & roundtrip by 01 Non Ac Tavera as per the itinerary",
+				"Assistance upon arrival at Srinagar airport",
+				"Half-day sightseeing tour to Mughal Gardens & Shankaracharya Temple",
+				"01 Shikara cruise on the lake (01 hours)",
+				"All present applicable taxes as on date",
+				"Any future taxes levies will be charged extra"
+			]
+		}
+	]
+}

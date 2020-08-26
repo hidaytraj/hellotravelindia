@@ -1,0 +1,381 @@
+.top-header {
+	background: #1e56a9;
+	color: #fff;
+}
+
+.top-header a {
+	color: #fff;
+}
+
+
+/* Header */
+#mainheader {
+	float: left;
+	width: 100%;
+}
+/* Top Baar */
+.hti-topbar {
+	float: left;
+	width: 100%;
+}
+.hti-topbar a, .hti-topbar p, .hti-topbar i, .hti-topinfo li {
+	color: #ffffff;
+}
+.hti-topinfo {
+	float: left;
+}
+.hti-topinfo li {
+	float: left;
+	list-style: none;
+	font-size: 11px;
+}
+.hti-topinfo > li {
+	padding: 11px 20px;
+	border-right: 1px solid rgba(255, 255, 255, 0.3);
+}
+.hti-topinfo > li:first-child {
+	border-left: 1px solid rgba(255, 255, 255, 0.3);
+}
+.hti-topinfo li i {
+	float: left;
+	padding: 7px 10px 0px 0px;
+}
+/* Language Style */
+#lang_sel ul {
+	margin: 0px;
+}
+#lang_sel ul > li > a:before {
+	float: left;
+	content: "\f0ac";
+	font-family: FontAwesome;
+	padding: 0px 9px 0px 0px;
+}
+#lang_sel ul > li > a:after {
+	content: "\f107";
+	font-family: FontAwesome;
+	padding: 0px 0px 0px 8px;
+}
+#lang_sel ul li ul {
+	position: absolute;
+	left: 0px;
+	top: 100%;
+	width: 100%;
+	text-align: center;
+	opacity: 0;
+	visibility: hidden;
+	z-index: 999;
+}
+#lang_sel ul li:hover ul {
+	opacity: 1;
+	visibility: visible;
+}
+#lang_sel ul li ul li {
+	width: 100%;
+}
+#lang_sel ul li ul li:hover {
+	background-color: rgba(255, 255, 255, 0.2);
+}
+#lang_sel ul li ul li a:before, #lang_sel ul li ul li a:after {
+	display: none;
+}
+.hti-topinfo #lang_sel ul li {
+	padding: 0px;
+	position: relative;
+}
+
+
+/* UserInfo Style */
+.hti-userinfo {
+	float: right;
+}
+.hti-userinfo ul {
+	margin: 0px;
+}
+.hti-userinfo > li {
+	float: left;
+	list-style: none;
+	padding: 11px 20px;
+	border-right: 1px solid rgba(255, 255, 255, 0.2);
+}
+.hti-userinfo .hti-social-network li {
+	margin: 2px 0px 0px 8px;
+}
+.hti-userinfo .hti-social-network li a {
+	border: 1px solid #fff;
+	float: left;
+	font-size: 10px;
+	height: 25px;
+	line-height: 22px;
+	text-align: center;
+	width: 25px;
+}
+.hti-social-network li {
+	float: left;
+	list-style: none;
+	margin: 0px 0px 0px 18px;
+}
+/* Main Head Baar Style */
+.hti-headbar {
+	float: left;
+	width: 100%;
+	background-color: #ffffff;
+	box-shadow: 0px 0px 6px 1px rgba(0, 0, 0, 0.2);
+	position: relative;
+	z-index: 99;
+}
+/* Login Box */
+.hti-loginbox .modal-dialog {
+	width: 430px;
+}
+.hti-loginbox ul {
+	margin: 0px;
+}
+.hti-loginbox .modal-body {
+	padding: 0px;
+	position: relative;
+}
+.hti-loginbox .close {
+	position: absolute;
+	right: 15px;
+	top: 6px;
+	font-size: 30px;
+	color: #999;
+	opacity: 1;
+}
+.hti-login-title {
+	display: inline-block;
+	width: 100%;
+	text-align: center;
+	padding: 25px 60px 0px 60px;
+}
+.hti-login-title h2 {
+	text-transform: uppercase;
+	color: #999999;
+	margin-bottom: 0px;
+}
+.hti-login-title span {
+	font-size: 30px;
+	color: #999999;
+	font-weight: 600;
+	margin-bottom: 30px;
+	display: inline-block;
+	width: 100%;
+}
+.hti-login-network ul li {
+	float: left;
+	width: 100%;
+	list-style: none;
+	margin: 0px 0px 20px 0px;
+}
+.hti-login-network ul li a {
+	background-color: #3b5999;
+	color: #ffffff;
+	font-size: 20px;
+	padding: 14px 40px;
+	float: left;
+	width: 100%;
+	border-radius: 6px;
+}
+.hti-login-network ul li a i {
+	margin-right: 10px;
+}
+.hti-login-network ul li a[data-original-title="Twitter"] {
+	background-color: #4fa8e4;
+}
+/* Or Sepratore */
+.hti-login-sepratore {
+	display: inline-block;
+	width: 100%;
+	margin: 0px 0px 15px 0px;
+	overflow: hidden;
+	text-align: center;
+}
+.hti-login-sepratore span {
+	text-transform: uppercase;
+	font-size: 18px;
+	position: relative;
+	display: inline-block;
+	vertical-align: top;
+	margin: 0px;
+}
+.hti-login-sepratore span:before, .hti-login-sepratore span:after {
+	content: '';
+	width: 9999px;
+	height: 4px;
+	border-top: 1px solid #d4d4d4;
+	position: absolute;
+	top: 15px;
+	left: 100%;
+	margin-left: 10px;
+}
+.hti-login-sepratore span:after {
+	content: '';
+	left: auto;
+	right: 100%;
+	margin-left: 0px;
+	margin-right: 10px;
+}
+/* Login Input Form */
+.hti-loginbox form {
+	display: inline-block;
+	width: 100%;
+	padding: 0px 60px;
+}
+.hti-loginbox form p {
+	float: left;
+	width: 100%;
+	margin: 0px 0px 20px 0px;
+	position: relative;
+}
+.hti-loginbox form p input[type="text"], .hti-loginbox form p input[type="password"] {
+	width: 100%;
+	border: 1px solid #f0ede8;
+	height: 54px;
+	float: left;
+	border-radius: 4px;
+	color: #999999;
+	padding: 10px 0px 10px 60px;
+}
+.hti-loginbox form p i {
+	color: #989898;
+	position: absolute;
+	left: 15px;
+	top: 13px;
+	border-right: 1px solid #f0ede8;
+	padding: 7px 15px 7px 0px;
+	font-size: 14px;
+}
+.hti-loginbox form p input[type="submit"] {
+	float: left;
+	color: #ffffff;
+	font-weight: bold;
+	text-transform: uppercase;
+	border: none;
+	padding: 10px 27px;
+	font-size: 16px;
+	border-radius: 5px;
+}
+.hti-loginbox form p a {
+	color: #666666;
+	float: left;
+	padding: 13px 0px 0px 30px;
+	font-size: 14px;
+}
+.hti-search h2 {
+	text-align: left;
+}
+.hti-search form {
+	margin-top: 20px;
+}
+
+
+/* Logo Style */
+.logo {
+	float: left;
+	width:170px;
+	padding:10px 0px;
+}
+/* Navigation Style */
+.hti-rightside {
+	float: right;
+}
+.navbar-default {
+	background: none;
+	box-shadow: none;
+	border: none;
+	margin: 0px;
+}
+.navbar-nav > li {
+	padding: 48px 16px 30px 16px;
+	position: relative;
+}
+.navbar-nav > li > a {
+	font-size: 12px;
+	color: #666666;
+	font-weight: bold;
+	text-transform: uppercase;
+	padding: 0px;
+	position: relative;
+}
+.navbar-nav > li > a:before {
+	content: '';
+	position: absolute;
+	left: 0px;
+	bottom: 0px;
+	height: 2px;
+	width: 100%;
+	opacity: 0;
+}
+.navbar-nav > li:hover > a:before {
+	opacity: 1;
+	bottom: -6px;
+}
+.sub-dropdown .sub-dropdown {
+	left: 85%;
+	top: 0px;
+}
+.sub-dropdown {
+	position: absolute;
+	left: 0px;
+	top: 100%;
+	z-index: 999;
+	width: 220px;
+	background-color: rgba(255, 255, 255, 0.9);
+	padding: 5px 10px 5px 10px;
+	margin: 0px;
+	box-shadow: 0px 2px 3px 0px rgba(0, 0, 0, 0.3);
+	border-top: 2px solid #f23517;
+	opacity: 0;
+	visibility: hidden;
+	-webkit-transform: translateY(16px);
+	-moz-transform: translateY(16px);
+	-ms-transform: translateY(16px);
+	-o-transform: translateY(16px);
+	transform: translateY(16px);
+}
+.navbar-nav li:hover > .sub-dropdown {
+	opacity: 1;
+	visibility: visible;
+	-webkit-transform: translateY(0px);
+	-moz-transform: translateY(0px);
+	-ms-transform: translateY(0px);
+	-o-transform: translateY(0px);
+	transform: translateY(0px);
+}
+.sub-dropdown li {
+	list-style: none;
+	padding: 6px 14px;
+	float: left;
+	width: 100%;
+	border-bottom: 1px solid #e3e3e3;
+	position: relative;
+}
+.sub-dropdown li:before {
+	content: '';
+	position: absolute;
+	left: -10px;
+	top: 0px;
+	height: 100%;
+	width: 0px;
+	opacity: 0;
+}
+.sub-dropdown li:hover:before {
+	opacity: 1;
+	width: 4px;
+}
+.sub-dropdown li:last-child {
+	border-bottom: none;
+}
+.sub-dropdown li a {
+	font-weight: bold;
+	font-size: 12px;
+	text-transform: uppercase;
+}
+.hti-search {
+	float: right;
+	padding: 47px 0px 41px 0px;
+}
+.hti-searchbtn {
+	color: #666666;
+	font-size: 13px;
+}

@@ -1,0 +1,541 @@
+/* Hello Travel style */
+.hti-app {
+
+	body {
+    font-family: 'Muli', sans-serif;
+	}
+
+	.medium-title {
+		font-size: 21px;
+	}
+	li.nav-item a {
+		background: rgba(239, 239, 239, 0.71);
+		font-size: 21px;
+		border-radius: 0;
+	}
+
+	.custom-list {
+		text-align: left;
+		li {
+			list-style-type: none;
+		}
+	}
+
+	// Packages styles
+	.packages-wrapper {
+		label {
+			display: block;
+			font-weight: bold;
+		}
+		.pkg-highlights {
+			border: 1px solid @gray-shade;
+			padding: 1%;
+			text-align: center;
+
+			.custom-list {
+				font-size: 0.9rem;
+				
+				span.highlight-day {
+					color: @orange-shade;
+					font-weight: 600;
+					display: block;
+					float: left;
+					width: 15%;
+					min-width: 60px;
+				}
+				
+				span.highlight-lines {
+					display: block;
+					float: left;
+					width: 80%;	
+				}
+			}
+
+			.pkg-highlights label {
+				text-align: left;
+			}
+
+			.pkg-short-brief {
+				background: lighten(@gray-shade,15) ;
+				padding: 2%;
+			}
+
+			.package-price {
+				font-weight: 800;
+				
+				label {
+					color: @blue-shade;
+					text-align: center;
+				}
+			}
+		}
+
+		.package-description {
+			border-top: 2px dotted #c6c6c6;
+			margin-top: 25px;
+
+			.package-itinerary {
+				h3 {
+					font-size: 18px;
+
+					span {
+						font-weight: 600;
+						background: @blue-shade;
+						padding: 3px 5px;
+						display: inline-block;
+						color: #fff;
+						margin-right: 5px;
+						font-size: 15px;
+					}
+				}
+			}
+			
+		}
+
+		.package-includes {
+			margin-bottom: 3%;
+
+			.list-group-item {
+				p {
+					margin: 0;
+				}
+			}
+		}
+	}
+
+	.inclusion-highlight {
+		text-transform: capitalize;
+		
+		div {
+			display: inline-block;
+			color: #50505a;
+			margin: 0 5px;
+			text-align: center;
+			font-size: 14px;
+			font-weight: 600;
+			border-right: 1px dotted#b1b1b1;
+			padding-right: 10px;
+
+			.icon-title {
+				display: block;
+			}
+		}
+	}
+
+
+.hti-packages-page {
+
+	.table .thead-dark th {
+		background-color: @blue-shade;
+		border-color: darken(@blue-shade,15);
+	}
+
+	.hti-modrentitle h1 {
+		margin-top: 1rem;
+	}
+	.packages-menu {
+		margin: 1% 0;
+		display: -webkit-box;
+		display: -moz-box;
+		display: -ms-flexbox;
+		display: -webkit-flex;
+		display: flex;
+		align-items: center;
+		justify-content: center;
+	
+		ul {
+	
+			&.custom-list {
+				margin: 0;
+			}
+	
+			li {
+				float: left;
+				margin-right: 6px;
+	
+				.packages-link {
+					background: #f23517;
+					color: #fff;
+					padding: 4px 11px;
+					display: inline-block;
+					border-radius: 10px;
+				}
+			}
+	
+			&::after {
+				content: "";
+				display: block;
+				clear: both;
+			}
+		}
+	}
+}
+
+
+.destination-list {
+	.card-title {
+		text-transform: capitalize;
+	}
+	p.card-text {
+		font-size: 13px;
+	}
+}
+
+
+.fency-title {
+	font-weight: 500;
+    margin: 0.6rem;
+    font-size: 2rem;
+    padding: 0.2em;
+    color: @blue-shade;
+    border: 1px solid;
+	.border-radius(1rem,1rem,1rem,1rem);
+	margin-bottom: 1.5rem;
+}
+
+.icons-wrapper {
+	.each-icon {
+		height: 45px;
+		width: 45px;
+		display: inline-block;
+		background-size: 45px !important;
+		background:url('/assets/images/icons/icon-default.png') no-repeat; 
+
+		&.hotels,
+		&.Hotels {
+			background:url('/assets/images/icons/icon-hotels.png') no-repeat; 
+		}
+
+		&.transport,
+		&.Transport {
+			background:url('/assets/images/icons/icon-transport.png') no-repeat; 
+		}
+
+		&.meals,
+		&.Meals {
+			background:url('/assets/images/icons/icon-meals.png') no-repeat; 
+		}
+
+		&.sightseeing,
+		&.Sightseeing {
+			background:url('/assets/images/icons/icon-sightseeing.png') no-repeat; 
+		}
+
+		&.boat-ride,
+		&.Boat-Ride
+		{
+			background:url('/assets/images/icons/icon-boat-ride.png') no-repeat; 
+		}
+
+		
+	}
+
+	
+}
+	
+
+.hti-home {
+	h3 {
+		text-align: center;
+		margin: 0;
+		padding: 0;
+	}
+}
+
+h2,
+.h2 {
+	font-size: 18px;
+}
+
+.hti-modrentitle {
+	h1 {
+		margin-top: 2rem;
+	}
+}
+
+
+.header {
+
+	.top-header {
+		padding: 3px 0;
+
+		.main-header {
+			padding: 0;
+		}
+
+		a,
+		li{
+			color: #e2e2e2;
+		}
+
+		a:hover {
+			color: #fff;
+			text-decoration: none;
+		}
+
+
+	}
+
+	ol, ul {
+		margin-bottom: 0;
+	}
+
+	.logo-section {
+		position: relative;
+
+		.hti-logo {
+			position: absolute;
+			background: #fff;
+			z-index: 99;
+			padding: 6px;
+			top: 0;
+			left: 0;
+			.border-radius(0,0,15px,60px);
+
+			@media screen and (max-width:767px){
+				position: relative;
+				max-width: 250px;
+				float: none;
+				border-radius: 0;
+				top: auto;
+				left: auto;
+				bottom: auto;
+				right: auto;
+				margin: 0px auto;
+				text-align: center;
+				display: block;
+			}
+		}
+	}
+	
+}
+
+.breadcrumb-wrapper {
+	background: #d9e0ea;
+	color: #fff;
+
+	.breadcrumb {
+		background: #d9e0ea;
+		color: #fff;
+		
+		.breadcrumb-item.active {
+			color: #f23517;
+		}
+	}
+} 
+
+/* HR RESPONSIVE MENU */
+.hr-nav-wrapper ul li {
+
+	&.active a{
+		color: #ffffff;
+		background: #1e56a9;
+	}
+
+	list-style-type:none;
+	float:left;
+	position:relative;
+	a {
+	  text-decoration:none;
+	  color:#232121;
+	  padding:1em 1em;
+	  display:block;
+	  margin-right:1px;
+		font-size:18px;
+		text-transform: capitalize;
+	}
+	a:hover {
+		background: #dc3318;
+		color: white;
+	}
+	ul {
+	  display:none;
+	  position:absolute;
+	  width:195px;
+	  a {
+		margin-right:0;
+		background:#2289dd;
+	  }
+	  li {
+		width:100%;
+		ul {
+		  top:0;
+		  left:100%;
+		  a {
+			background:#4ea1e4;
+		  }
+		}
+	  }
+	}
+  }
+  .hr-nav-wrapper ul li:hover > ul {
+	display:block;
+  }
+  .hr-toggMenu {
+	display:none;
+  }
+  .hr-navigation .hrArr {
+	position:absolute;
+	top:0;
+	color:#ffffff;
+	right:15%;
+  }
+  .hr-navigation .hrArr:after {
+	content:"";
+	position:absolute;
+	top:20px;
+	left:0;
+	border-top:7px solid #bfbfbf;
+	border-right:7px solid transparent;
+	border-bottom:7px solid transparent;
+	border-left:7px solid transparent;
+  }
+
+
+.slider-wrapper {
+	position: relative;
+}
+
+.slider-wrapper img.slide {
+	width: 100%;
+	max-height: 500px;
+} 
+
+/* HELLO TRAVEL INDIA */
+blockquote {
+	font-size: 21px;
+	padding: 16px;
+	margin-bottom: 20px;
+}
+
+
+.kd-topinfo {
+	float: left;
+	margin-bottom: 0;
+}
+.kd-topinfo li {
+	float: left;
+	list-style: none;
+	font-size: 11px;
+}
+.kd-topinfo > li {
+	padding: 0 20px;
+	border-right: 1px solid rgba(255, 255, 255, 0.3);
+}
+.kd-topinfo > li:first-child {
+	border-left: 1px solid rgba(255, 255, 255, 0.3);
+}
+.kd-topinfo li i {
+	float: left;
+	padding: 7px 10px 0px 0px;
+}
+
+.kd-userinfo {
+	float: right;
+}
+.kd-userinfo ul {
+	margin: 0px;
+}
+.kd-userinfo > li {
+	float: left;
+	list-style: none;
+	padding: 0 20px;
+	border-right: 1px solid rgba(255, 255, 255, 0.2);
+}
+.kd-userinfo .kd-social-network li {
+	margin: 2px 0px 0px 8px;
+}
+.kd-userinfo .kd-social-network li a {
+	border: 1px solid #fff;
+	float: left;
+	font-size: 10px;
+	height: 25px;
+	line-height: 22px;
+	text-align: center;
+	width: 25px;
+}
+.kd-social-network li {
+	float: left;
+	list-style: none;
+	margin: 0px 0px 0px 18px;
+}
+
+
+/* Slider */
+.slider-wrapper img {
+	width: 100%;
+}
+
+.card {
+	&.text-white {
+		.btn.btn-outline-secondary {
+			color: #ffffff;
+			border-color: #ffffff;
+		}
+	}
+}
+
+// Pakcages List Menu Tabs
+.packages-list-wrapper-menu {
+	.nav-tabs {
+		margin-bottom: 10px;
+		padding-bottom: 10px;
+
+		.nav-item {
+			list-style-type: none;
+			a.nav-link {
+				padding: 0;
+			}
+			a.nav-link.active {
+				.package-lists-lbl {
+					.nights {
+						background: @orange-shade;
+					}
+				} 
+			}
+			
+		}
+	}
+	
+
+}
+
+
+.package-lists-lbl {
+	.nights {
+		background: @blue-shade;
+		
+	}
+
+	.days {
+		background: @dark-black;
+	}
+
+	.nights,
+	.days{
+		display: block;
+		padding: 5px 10px;
+		color: @white;
+	}
+}
+
+@media screen and (max-width:768px){
+	ul.tabConetentBox li {
+		width:100%;
+	}
+
+	ul.tabConetentBox li input{
+		width:100%;
+	}
+
+	.hti-tourform {
+		position: relative;
+	}
+
+	.col-md-12 {
+		width: 100%;
+	}
+}
+
+}
+

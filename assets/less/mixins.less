@@ -1,0 +1,44 @@
+
+
+.box-shadow(@h-shadow, @v-shadow, @blur, @spread, @color) { 
+    box-shadow: @h-shadow @v-shadow @blur  @spread @color;
+    -webkit-box-shadow: @h-shadow @v-shadow @blur  @spread @color;
+    -moz-box-shadow: @h-shadow @v-shadow @blur  @spread @color;
+    -o-box-shadow: @h-shadow @v-shadow @blur  @spread @color;
+    -ms-box-shadow: @h-shadow @v-shadow @blur  @spread @color;
+}
+
+// Without Spread
+.box-shadow(@h-shadow, @v-shadow, @blur, @color) { 
+    box-shadow: @h-shadow @v-shadow @blur  @color;
+    -webkit-box-shadow: @h-shadow @v-shadow @blur  @color;
+    -moz-box-shadow: @h-shadow @v-shadow @blur  @color;
+    -o-box-shadow: @h-shadow @v-shadow @blur  @color;
+    -ms-box-shadow: @h-shadow @v-shadow @blur  @color;
+}
+
+.no-box-shadow(){
+    -moz-box-shadow:none;
+    -webkit-box-shadow:none;
+    -o-box-shadow:none;
+    -ms--webkit-box-shadow:none;
+    box-shadow:none;
+}
+
+
+
+.txt-shadow(@h-shadow, @v-shadow, @blur-radius, @color) {
+    text-shadow: @h-shadow @v-shadow @blur-radius @color;
+    -webkit-text-shadow: @h-shadow @v-shadow @blur-radius @color;
+    -moz-text-shadow: @h-shadow @v-shadow @blur-radius @color;
+    -o-text-shadow: @h-shadow @v-shadow @blur-radius @color;
+    -ms-text-shadow: @h-shadow @v-shadow @blur-radius @color;
+}
+
+.border-radius(@top-left, @top-right, @bottom-right, @bottom-left){
+    border-radius: @top-left @top-right  @bottom-right @bottom-left;
+    -webkit-border-radius: @top-left @top-right  @bottom-right @bottom-left;
+    -moz-border-radius: @top-left @top-right  @bottom-right @bottom-left;
+    -o-border-radius: @top-left @top-right  @bottom-right @bottom-left;
+    -ms-border-radius: @top-left @top-right  @bottom-right @bottom-left;
+}
